@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QgoBLxaocUSqMUPU0OObxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="619, 100, 13, 23" DesignTimeScaleFactor="1" FriendlyName="'Merge &amp; Center'" FullSelectorArgument="&lt;uia cls='MsoCommandBar' name='Ribbon' /&gt;&lt;uia cls='NetUIChunk' name='Alignment' /&gt;&lt;uia cls='NetUIRibbonButton' helpText='Merge &amp;amp; Center' name='Merge &amp;amp; Center' /&gt;" FuzzySelectorArgument="&lt;uia cls='MsoCommandBar' name='Ribbon' /&gt;&lt;uia cls='NetUIChunk' name='Alignment' /&gt;&lt;uia cls='NetUIRibbonButton' helpText='Merge &amp;amp; Center' name='Merge &amp;amp; Center' role='Menu Item' automationid='' check:fulltext='Merge &amp;amp; Center' /&gt;" Guid="6162bac6-5b32-49d2-a5ef-13fae882c598" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABEAAAAbCAYAAACa9mScAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA7SURBVEhLY/hPBTBqCCYYNQQTjARDysvLMTA+gNMlxBoAAni9Q4wBIDDIA5ZUMGoIJhg1BBNQwZD//wHh1BbmRJrrowAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Invoice_Output.xlsx - Excel (Product Activation Failed)' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6728ac38a38a265afeaee4f8afd94b74.png" xmlns="">0gtNKeTf5bES5UvONlzbwLQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

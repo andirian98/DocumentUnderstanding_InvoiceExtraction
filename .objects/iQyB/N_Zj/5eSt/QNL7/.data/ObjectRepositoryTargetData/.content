@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6aYmXn0TR0-4Fm_SjlB4LQ" Reference="-CMW8s9WW0C8bOJnU3jCLw/QNL7CJx2BU6a4HRfrRu2Ew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="17, 165, 77, 18" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'edit 1001'" FullSelectorArgument="&lt;uia automationid='13' cls='ComboBox' /&gt;&lt;uia automationid='1001' cls='Edit' /&gt;" FuzzySelectorArgument="&lt;uia automationid='13' cls='ComboBox' /&gt;&lt;uia automationid='1001' cls='Edit' role='edit' /&gt;" Guid="e724dbae-3046-4902-bcb0-bddeaa497b3e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFEAAAAWCAYAAAC40nDiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVFhH7ZbBDcMgDEU7HLuwikdhERZhETeYkNIYkkrxqf5P4gDm9OSPeTF4DCQaAIkGQKIBkGgAJBoAiQbcSswUOITAlPeDkUxS6yumshd8cSMxM4XIRJGDsthqh7eSOI57R1xLrJ0WExcRRJu2AXV2kuqIS4k1yi2ihVPUcW1RryLndS+sJZ7iWdIW6dqVbXvQ38xZzQtLiUqaevNqfD8DR+4jziMtnuPk7atHVnem30jPJcrXRXdV67Z9mMidYbBIpy6+Qn/OVKK8c/OP4VeEj/fw1KXeWA8W8DOQaAAkGgCJBkCiAZD4GOY3FvFLnsVfdt0AAAAASUVORK5CYII=" ScopeSelectorArgument="[string.Format(&quot;&lt;wnd app='excel.exe' cls='XLMAIN' title='{0} - Excel (Product Activation Failed)' /&gt;&quot;, fileName)]" SearchSteps="Selector, FuzzySelector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8a7d0d001758f818fe8070048e73eaee.png" xmlns="">0OBqbUHrVI0-xP_VBerNgYg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="fileName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
