@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vIznFwA2GUSeD8wLIL7JCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="98, 163, 15, 22" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Open'" FullSelectorArgument="&lt;uia automationid='13' cls='ComboBox' /&gt;&lt;uia automationid='DropDown' name='Open' role='button' /&gt;" FuzzySelectorArgument="&lt;uia automationid='13' cls='ComboBox' /&gt;&lt;uia automationid='DropDown' name='Open' role='button' check:fulltext='Open' /&gt;" Guid="5df5e25d-55a2-41e0-9dcf-fda38e369267" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABMAAAAaCAYAAABVX2cEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABMSURBVEhL7dFBCgAgCERR7x5EJ/NahgewnBhazQNbfirN3YM1FiSK4RTDlbExVzmV482QULo+sxtKrT/rhNKfBbxQDKcYjh/LgzMeG8gGcIiAQ3HUAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Invoice_Output.xlsx - Excel (Product Activation Failed)' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c5bcdaeb8b072722df25414ca4e807f7.png" xmlns="">0Rb2cZ2YKeUOVI2KoQtqUIg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
